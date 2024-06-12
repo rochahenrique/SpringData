@@ -1,0 +1,3 @@
+--INSERT INTO courses(id, description, name) VALUES (1, 'Description 1', 'Course 01');
+--INSERT INTO courses(id, description, name) VALUES (2, null, 'Course 02');
+--INSERT INTO courses(id, description, name) VALUES (3, null, 'Course 03');
